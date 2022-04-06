@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BukiCl
-- 👀 I’m interested in Programming ( mostly backend)
+- 👀 I’m interested in Programming 
 - 🌱 I’m currently learning C#, Python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
